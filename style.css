@@ -1,0 +1,8 @@
+.topcorner{
+    position:absolute;
+    top:0px;
+    right: 0px;
+ }
+img {
+  border-radius: 50%;
+}

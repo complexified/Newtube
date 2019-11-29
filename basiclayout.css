@@ -1,0 +1,28 @@
+
+
+#Green, #Green2, #Green3 {
+    background-color: grey;
+margin: 10px;
+height: 250px;
+}
+
+
+#brown, #brown2, #brown3, #brown4, #brown5, #brown6 {
+  background-color: grey;
+margin: 100px;
+height: 150px;
+width: 150px;
+}
+
+#black, #black2{
+    background-color:dimgray;
+}
+
+#Purple,#Purple3,#Purple5,#Purple7,#Purple9,#Purple11{
+background-color: firebrick;
+}
+#Purple2,#Purple4,#Purple6,#Purple8,#Purple10,#Purple12{
+    background-color: forestgreen;
+}
+
+
